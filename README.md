@@ -5,10 +5,23 @@ Set the windows sensitivity to 6/11. Untick the "enhance pointer position" featu
 ## Startup options
 
 ```
--novid -tickrate 128 -w 1024 -h 768 -language english +exec autoexec freq 144
+-novid -tickrate 128 -language english -freq 144
 ```
 
 ## Monitor
 
 Set the monitor refresh rate to the max. If it's a BenQ monitor, set the profile to 'FPS 1'.
 
+## Path of config
+
+Either
+
+```
+C:\Program Files (x86)\Steam\userdata\87166932\730\local\cfg
+```
+
+or for all users:
+
+```
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+```

@@ -17,7 +17,7 @@ Set the monitor refresh rate to the max. If it's a BenQ monitor, set the profile
 Either
 
 ```
-C:\Program Files (x86)\Steam\userdata\87166932\730\local\cfg
+C:\Program Files (x86)\Steam\userdata\STEAMID\730\local\cfg
 ```
 
 or for all users:
